@@ -9,4 +9,4 @@ Backend: Rails
 
 Server: Heroku
 
-Projekthantering: Github
+Projekthantering: Githubu
